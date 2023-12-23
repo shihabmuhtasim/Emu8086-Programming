@@ -1,0 +1,33 @@
+;new line
+    Mov dl,0Ah
+    Mov ah,2
+    Int 21H
+    
+    Mov dl,0Dh
+    Mov ah,2
+    Int 21H
+
+2. READ LINE
+LEA DX,A 
+mov ah,9
+int 21h
+
+3. ;input 1
+    Mov AH,1
+    INT 21H
+
+4.Output 
+mov to dl 
+Mov ah,2
+Int 21H
+
+5. prompt 
+A DB "Please insert an uppercase letterr:$"
+
+
+Array:
+Init:
+arr db length dup(?)
+arr db 7 dup(?)
+arr db "abcde"
+arr db 1,2,3,4,5
