@@ -20,12 +20,12 @@ This repository is a collection of lab assignments, quizzes, and example codes f
 
 ## Lab Contents
 
-- **Lab 1**: [Basic introduction]
-- **Lab 2**: [Basic I/O, Advanced arithmetic operations and Flags]
-- **Lab 3**: [Flow control instructions and Branching Structures]
-- **Lab 4**: [Flow control instructions and Looping structures]
-- **Lab 5**: [Arrays]
-- **Lab 6**: [STACK]
+- **Lab 1**: Basic introduction
+- **Lab 2**: Basic I/O, Advanced arithmetic operations and Flags
+- **Lab 3**: Flow control instructions and Branching Structures
+- **Lab 4**: Flow control instructions and Looping structures
+- **Lab 5**: Arrays
+- **Lab 6**: STACK
 
 Each lab directory contains assignments and quizzes along with necessary resources to understand and solve the problems.
 
