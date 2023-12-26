@@ -9,7 +9,7 @@ This repository is a collection of lab assignments, quizzes, and example codes f
 ![GitHub repo size](https://img.shields.io/github/repo-size/shihabmuhtasim/Emu8086-Programming?color=f5f5dc)
 ![GitHub watchers](https://img.shields.io/github/watchers/shihabmuhtasim/Emu8086-Programming?style=social)
 
-![NUMERICAL METHODS (1)](https://github.com/shihabmuhtasim/Emu8086-Programming/assets/92597456/bc9b69a0-2d22-4cbe-8bf4-c8fbb2f20130)
+
 
 ## Topics Covered
 
@@ -18,7 +18,7 @@ This repository is a collection of lab assignments, quizzes, and example codes f
 - Loops
 - Conditions
 - Arithmetic Operations
-- ... and various other fundamental microprocessor concepts.
+- Fundamental microprocessor concepts.
 
 ## Lab Contents
 
