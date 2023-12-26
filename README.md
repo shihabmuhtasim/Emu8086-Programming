@@ -2,12 +2,14 @@
 
 This repository is a collection of lab assignments, quizzes, and example codes focusing on the microprocessor 8086, specifically for the EMU8086 environment. It covers various fundamental topics such as arrays, stacks, loops, conditions, and arithmetic operations.
 
-![GitHub top language](https://img.shields.io/github/languages/top/[YourUsername]/EMU8086-Microprocessor-8086-Lab?color=f5f5dc) 
-![GitHub language count](https://img.shields.io/github/languages/count/[YourUsername]/EMU8086-Microprocessor-8086-Lab?color=f5f5dc) 
-![GitHub last commit](https://img.shields.io/github/last-commit/[YourUsername]/EMU8086-Microprocessor-8086-Lab?color=f5f5dc) 
-![GitHub repo file count](https://img.shields.io/github/directory-file-count/[YourUsername]/EMU8086-Microprocessor-8086-Lab?color=f5f5dc)
-![GitHub repo size](https://img.shields.io/github/repo-size/[YourUsername]/EMU8086-Microprocessor-8086-Lab?color=f5f5dc)
-![GitHub watchers](https://img.shields.io/github/watchers/[YourUsername]/EMU8086-Microprocessor-8086-Lab?style=social)
+![GitHub top language](https://img.shields.io/github/languages/top/shihabmuhtasim/Emu8086-Programming?color=f5f5dc)
+![GitHub language count](https://img.shields.io/github/languages/count/shihabmuhtasim/Emu8086-Programming?color=f5f5dc)
+![GitHub last commit](https://img.shields.io/github/last-commit/shihabmuhtasim/Emu8086-Programming?color=f5f5dc)
+![GitHub repo file count](https://img.shields.io/github/directory-file-count/shihabmuhtasim/Emu8086-Programming?color=f5f5dc)
+![GitHub repo size](https://img.shields.io/github/repo-size/shihabmuhtasim/Emu8086-Programming?color=f5f5dc)
+![GitHub watchers](https://img.shields.io/github/watchers/shihabmuhtasim/Emu8086-Programming?style=social)
+
+![NUMERICAL METHODS (1)](https://github.com/shihabmuhtasim/Emu8086-Programming/assets/92597456/bc9b69a0-2d22-4cbe-8bf4-c8fbb2f20130)
 
 ## Topics Covered
 
